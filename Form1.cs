@@ -67,7 +67,7 @@ namespace LOL_Find_Summoners
                 string summ_name = linija.Replace(" joined the lobby", "");
                 string url = "https://porofessor.gg/live/" + radio_val + "/" + summ_name;
                 Process.Start(url);
-                break;
+                break; // such a ghetto solution but hey, it works :)
             }
         }
     }
