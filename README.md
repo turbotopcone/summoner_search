@@ -12,4 +12,4 @@ TEST4 joined the lobby
 TEST5 joined the lobby
 Simply copy this and paste it in the program and click check op.gg; which will open up op.gg for each of them.
 
-To see your opponent's winrates, you will have to wait for the game to start and then press check Porofessor.gg
+To see your opponents' winrates, you will have to wait for the game to start and then press check Porofessor.gg
